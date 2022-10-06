@@ -291,7 +291,7 @@ public class Main {
                         break;
                 }
             }
-            System.out.println(hundredsUnit + "-and-" + tensUnit + "-" + ones);
+            System.out.println(hundredsUnit + " and " + tensUnit + " " + ones);
         }
     }
 }
